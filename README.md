@@ -2,7 +2,7 @@
     <h1 align="center"> Amigo Secreto
     <br />
     <br />
-    <a href="#">
+    <a href="https://ezef86.github.io/amigo-secreto/">
       <img src="./image.png" alt="Imagen página web">
     </a>
     </h1>
@@ -16,7 +16,7 @@
 
 <h1 align="center">
 
-[AMIGO SECRETO](https://www.google.com)
+[AMIGO SECRETO](https://ezef86.github.io/amigo-secreto/)
 
 </h1>
 
